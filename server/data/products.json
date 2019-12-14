@@ -1,0 +1,96 @@
+{
+  "products": [
+    {
+      "id": 12,
+      "sku": 1,
+      "title": "Zumba dancing red white heal shoes",
+      "description": "belle dancing red white heal shoesbelle dancing red white heal shoes",
+      "availableSizes": ["S", "XS"],
+      "style": "Black with custom print",
+      "price": 1900.00,
+      "currencyId": "Rs",
+      "currencyFormat": "₹",
+      "isFreeShipping": false,
+      "shippingCharge": 200,
+      "danceCategories": ["BallRoom","Latin","Salsa"],
+      "gender": ["Women"],
+      "imageList": ["aaa.jpg","aab.jpg","aac.jpg"],
+      "primaryImage": "aaa.jpg"
+    },
+
+    {
+      "id": 13,
+      "sku": 2,
+      "title": "Dark Thug Blue-Navy T-Shirt",
+      "description": "belle dancing red white heal shoesbelle dancing red white heal shoes",
+      "availableSizes": ["M"],
+      "style": "Front print and paisley print",
+      "price": 2500.00,
+      "installments": 5,
+      "currencyId": "Rs",
+      "currencyFormat": "₹",
+      "isFreeShipping": false,
+      "shippingCharge": 200,
+      "danceCategories": ["Zumba","Latin","Salsa"],
+      "gender": ["Women"],
+      "imageList": ["baa.jpg","bab.jpg","bac.jpg"],
+      "primaryImage": "baa.jpg"
+    },
+
+    {
+      "id": 14,
+      "sku": 6,
+      "title": "Sphynx Tie Dye Wine T-Shirt",
+      "description": "GPX Poly 1",
+      "availableSizes": ["X", "L", "XL"],
+      "style": "Front tie dye print",
+      "price": 1500.00,
+      "installments": 3,
+      "currencyId": "Rs",
+      "currencyFormat": "₹",
+      "isFreeShipping": false,
+      "shippingCharge": 200,
+      "danceCategories": ["Zumba","BallRoom","Salsa"],
+      "gender": ["Women"],
+      "imageList": ["caa.jpg","cab.jpg","cac.jpg"],
+      "primaryImage": "caa.jpg"
+    },
+
+    {
+      "id": 15,
+      "sku": 4,
+      "title": "Skuul",
+      "description": "Treino 2014",
+      "availableSizes": ["L", "XL", "XXL"],
+      "style": "Black T-Shirt with front print",
+      "price": 1900.00,
+      "installments": 5,
+      "currencyId": "Rs",
+      "currencyFormat": "₹",
+      "isFreeShipping": false,
+      "shippingCharge": 200,
+      "danceCategories": ["Zumba","BallRoom","Latin"],
+      "gender": ["Women"],
+      "imageList": ["daa.jpg","dab.jpg","dac.jpg"],
+      "primaryImage": "daa.jpg"
+    },
+    {
+      "id": 16,
+      "sku": 5,
+      "title": "Zumba Tie Dye Wine T-Shirt",
+      "description": "GPX Poly 1",
+      "availableSizes": ["X", "L", "XL"],
+      "style": "Front tie dye print",
+      "price": 2000.99,
+      "installments": 3,
+      "currencyId": "Rs",
+      "currencyFormat": "₹",
+      "isFreeShipping": false,
+      "shippingCharge": 200,
+      "danceCategories": ["Zumba","BallRoom","Salsa"],
+      "gender": ["Men"],
+      "imageList": ["eaa.jpg","eab.jpg","eac.jpg"],
+      "primaryImage": "eaa.jpg"
+    }
+  ]
+}
